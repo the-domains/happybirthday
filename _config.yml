@@ -1,0 +1,14 @@
+layout_spectrum: 0.6697445849422365
+typography_spectrum: 0.6631480806972831
+color:
+  brandStrength: 0.7241787298116833
+  lightness: 0.9111131795216352
+  saturation: 0.373606123495847
+  rhythmicContrast: 0.19000050169415772
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: happybirthday
