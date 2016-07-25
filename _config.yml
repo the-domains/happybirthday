@@ -6,9 +6,9 @@ color:
   saturation: 0.373606123495847
   rhythmicContrast: 0.19000050169415772
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: happybirthday
